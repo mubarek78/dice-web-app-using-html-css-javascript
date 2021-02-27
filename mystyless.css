@@ -1,0 +1,18 @@
+body{
+	background-color: gray;
+	text-align: center;
+	color: green;
+	font-family: 'Lobster', cursive;
+}
+h1{
+	font-size: 7rem;
+	padding: 5px 0 45px;
+	color: green;
+}
+.dice{
+	font-size: 2rem;
+}
+
+footer{
+	margin: 115px 0 0;
+}
